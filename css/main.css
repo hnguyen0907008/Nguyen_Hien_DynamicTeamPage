@@ -1,0 +1,65 @@
+main
+{
+	margin: 0 auto;
+	width: 1200px;
+	display: flex;
+	flex-direction: row;
+}
+
+h1
+{
+	text-align: center;
+	font-family: 'Myriad Pro';
+	font-size: 38px;
+	color: #f76c6c;
+	margin-top: 40px;
+}
+
+h2
+{
+	color: #23305e;
+	font-family: 'Minion', bold;
+	font-size: 36px;
+	margin-bottom: 0px;
+}
+
+h3
+{
+	margin-top: 0px;
+	font-size: 25px;
+	font-family: 'Myriad';
+}
+
+.detail
+{
+	font-family: 'Avenir';
+	font-size: 20px;
+}
+
+
+.memberInfo
+{
+	margin-left: 40px;
+}
+
+.controlImg
+{
+	padding-left: 150px;
+}
+
+button
+{
+	padding: 10px;
+	font-family: 'Helvetica';
+	font-size: 15px;
+	background-color: #39424e;
+	color: white;
+	margin-top: 20px;
+}
+
+button:hover
+{
+	background-color: #a8d0e6;
+	color: #39424e;
+	border-radius: 10px;
+}
