@@ -1,5 +1,5 @@
 # Nguyen_Hien_DynamicTeamPage
-![Default Avatar](images/default.jpg)
+![Default Avatar](images/portrait_1.PNG)
 
 # Dynamic Team Page Review
 
@@ -10,13 +10,12 @@ This is a small team assignment with designer and developer roles.
 
 ## Description
 
-Because I'm doing the Integrated Project solo so for this Team Page Assignment, I create another team partner referred as "The Other Person" to demonstrate my JavaScript coding skill.
+Because I am from the other level so for this project, I do it solo. I create another team partner as "The Other Person" to demonstrate my JavaScript skill.
 
-The Biography Page is simple. There are two buttons that show Designer's and Developer's information which included their Name (headline), image and details (p tag).
+The Biography Page is simple. Click buttons to show the Designer's and Developer's information which included their names (headline), images, personal details (p tag) and tools used. 
 
 Only one team member’s information is visible at a time.
 
-## Getting Started
 
 ### Dependencies
 
